@@ -157,7 +157,7 @@
 	#TRAK = SK,ref * t_tot = 1962.6 cGy cm^2
 	#w_max = 0.0449
 	#SK,ref*t_tot*w_max/(air kerma per hist)/100 = 
-	# 40700*(173.6/3600)*0.0449/(1.1592E-13)/100 = 1.76E+12
+	# 40700*(173.6/3600)*0.0449/(1.1592E-13)/100 = 7.602E+12
     
 :stop scoring options:
 
